@@ -1,0 +1,47 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "iPhone X",
+            "image": "iphone-x.png",
+            "price": 1999.00,
+            "description": "Novo iPhone X com 256gb"
+        },
+        {
+            "id": 2,
+            "name": "Apple Watch",
+            "image": "apple-watch.png",
+            "price": 1999.00,
+            "description": "Novo Apple Watch 4 GPS"
+        },
+        {
+            "id": 3,
+            "name": "Apple TV",
+            "image": "appletv.png",
+            "price": 1999.00,
+            "description": "Apple TV 32gb"
+        },
+        {
+            "id": 4,
+            "name": "iMac 21",
+            "image": "imac.png",
+            "price": 1999.00,
+            "description": "iMac 21 retina"
+        },
+        {
+            "id": 5,
+            "name": "MacBook Pro",
+            "image": "macbookpro.png",
+            "price": 1999.00,
+            "description": "Macbook Pro 256 SSD"
+        },
+        {
+            "id": 6,
+            "name": "Mac Mini",
+            "image": "macmini.png",
+            "price": 1999.00,
+            "description": "Macmini 256 SSD"
+        }
+        
+    ]
+}
